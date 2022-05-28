@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thankyou</folder>
+	<filename>thankyou.224be815-bca9-11ec-bfe8-f80dac5809d1.jpg</filename>
+	<path>D:\Projects\Sign-to-speech\TFODCourse\Tensorflow\workspace\images\collectedimages\thankyou\thankyou.224be815-bca9-11ec-bfe8-f80dac5809d1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ThankYou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>7</ymin>
+			<xmax>319</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

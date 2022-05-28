@@ -1,0 +1,26 @@
+<annotation>
+	<folder>no</folder>
+	<filename>no.00be791d-bca9-11ec-9616-f80dac5809d1.jpg</filename>
+	<path>D:\Projects\Sign-to-speech\TFODCourse\Tensorflow\workspace\images\collectedimages\no\no.00be791d-bca9-11ec-9616-f80dac5809d1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>468</xmin>
+			<ymin>109</ymin>
+			<xmax>640</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

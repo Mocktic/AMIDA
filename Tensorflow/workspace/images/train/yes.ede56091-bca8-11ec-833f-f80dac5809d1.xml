@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yes</folder>
+	<filename>yes.ede56091-bca8-11ec-833f-f80dac5809d1.jpg</filename>
+	<path>D:\Projects\Sign-to-speech\TFODCourse\Tensorflow\workspace\images\collectedimages\yes\yes.ede56091-bca8-11ec-833f-f80dac5809d1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>250</ymin>
+			<xmax>321</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>present</folder>
+	<filename>present.37a44860-bca9-11ec-b62b-f80dac5809d1.jpg</filename>
+	<path>D:\Projects\Sign-to-speech\TFODCourse\Tensorflow\workspace\images\collectedimages\present\present.37a44860-bca9-11ec-b62b-f80dac5809d1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Present</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>546</xmin>
+			<ymin>93</ymin>
+			<xmax>640</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>
